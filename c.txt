@@ -1,1 +1,2 @@
 A file that was creating on branch 1
+I'm adding this line to use git diff and see what's up.
