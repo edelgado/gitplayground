@@ -1,1 +1,4 @@
 Changing the contents to stage and see if I can change it again.
+So I'm changing it again here....
+Interesting... it recorded what this file was when I first staged, then recognize line 2 as modification that is not staged yet. Let's see what happens with this line.
+So it stays in the same state: A staging, and the modification. Further modifications are still the modified (un-staged) version.
